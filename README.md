@@ -7,6 +7,6 @@ This project introduces an advanced machine learning model designed to generate 
 -**QUESTION GENERATION**\
 -**ASR and SPEECH ANALYSES**\
 -**GRAMMAR CORRECTION(using API)**\
--**EVALUATION(BLEU SCORES)**\
+-**EVALUATION(BLEU SCORES)**
 
 Resume Scanning: User will input a pdf of his/her resume. NER is used to identify keywords based on the skills and projects mentioned in resume. Then using used Multinomial Naive Bayes, Nearest K-Neighbour Classification to classify the resumes into various job profiles.

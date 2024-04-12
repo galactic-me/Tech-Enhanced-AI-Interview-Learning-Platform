@@ -27,6 +27,7 @@ We added context to them; which was well required by a T5 Transformer to learn a
 
   **T5 Transformer** (**T**ext-**T**o-**T**ext **T**ransfer **T**ransformer)
    We fine tuned a T5 Transformer , which is an encoder-decoder model pre-trained on Squad Dataset. It works well on a variety of tasks that include text-to-text generation. It takes input in form of text and generates output in the form of text.
+   
    ![image](https://github.com/galactic-me/Tech-Enhanced-AI-Interview-Learning-Platform/assets/126558668/143db14b-3a8d-4920-8aa3-0507a715f2aa)
 
 **ASR and SPEECH ANALYSES**: Used pyAudio to convert audio into text to generate Follow-Up Questions and then it uses the candidate speech to generate follow up questions using the same Question Generation Model. We also use this audio to identify grammatical errors using a python library:language_tool_python.Automatic Speech Recognition (ASR) is a complex process that converts spoken language into written text. It encompasses several stages including audio pre-processing, feature extraction, phoneme and word mapping, and statistical modeling to determine the most probable sequence of words. The outcome of ASR is the transcribed text, offering a valuable tool for accurately capturing and interpreting spoken information in various applications.

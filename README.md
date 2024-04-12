@@ -9,7 +9,7 @@ This project introduces an advanced machine learning model designed to generate 
 -**GRAMMAR CORRECTION(using API)**\
 -**EVALUATION(BLEU SCORES)**
 
-## Resume Scanning and Classification##: \ User will input a pdf of his/her resume. NER is used to identify keywords based on the skills and projects mentioned in resume. Then using used Multinomial Naive Bayes, Nearest K-Neighbour Classification to classify the resumes into various job profiles.
+**Resume Scanning and Classification**:  User will input a pdf of his/her resume. NER is used to identify keywords based on the skills and projects mentioned in resume. Then using used Multinomial Naive Bayes, Nearest K-Neighbour Classification to classify the resumes into various job profiles.
 ![WhatsApp Image 2024-04-13 at 00 47 16_94d37725](https://github.com/galactic-me/Tech-Enhanced-AI-Interview-Learning-Platform/assets/126558668/4ca540a3-ca3e-4aca-bfd9-7911dfbcf212)
 
 
